@@ -8,7 +8,7 @@ export default function App() {
   return (
   
       <Routes>
-        <Route path='/privacy' element={ <MainPage />} />
+        <Route path='/yahabitWebsite' element={ <MainPage />} />
       </Routes>
    
   )
