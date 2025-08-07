@@ -62,4 +62,4 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
         
         This privacy policy is effective as of 2025-08-07`}),Pt.jsx(Wn,{heading:"Contact Us",content:`If you have any questions regarding privacy while using the Application,
       or have questions about the practices, please contact the Service Provider
-      via email at zavedahmadca707@gmail.com.`})]})}function f0(){return Pt.jsx(My,{children:Pt.jsx(Pd,{path:"/yahabitWebsite",element:Pt.jsx(i0,{})})})}qv.createRoot(document.getElementById("root")).render(Pt.jsx(ky,{children:Pt.jsx(U.StrictMode,{children:Pt.jsx(f0,{})})}));
+      via email at zavedahmadca707@gmail.com.`})]})}function f0(){return Pt.jsx(My,{children:Pt.jsx(Pd,{path:"/privacy",element:Pt.jsx(i0,{})})})}qv.createRoot(document.getElementById("root")).render(Pt.jsx(ky,{basename:"/yahabitWebsite",children:Pt.jsx(U.StrictMode,{children:Pt.jsx(f0,{})})}));
