@@ -4,7 +4,7 @@ import { HashRouter as Router } from "react-router";
 import App from "./App.tsx";
 
 createRoot(document.getElementById("root")!).render(
-  <Router basename="/yahabitWebsite">
+  <Router>
     <StrictMode>
       <App />
     </StrictMode>
