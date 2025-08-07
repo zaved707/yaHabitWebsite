@@ -62,4 +62,4 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
         
         This privacy policy is effective as of 2025-08-07`}),Qt.jsx(Wn,{heading:"Contact Us",content:`If you have any questions regarding privacy while using the Application,
       or have questions about the practices, please contact the Service Provider
-      via email at zavedahmadca707@gmail.com.`})]})}function f0(){return Qt.jsx("p",{children:"hello my name is zaved707"})}function c0(){return Qt.jsxs(Mv,{children:[Qt.jsx(Oc,{path:"/privacy",element:Qt.jsx(i0,{})}),Qt.jsx(Oc,{path:"/about",element:Qt.jsx(f0,{})})]})}qy.createRoot(document.getElementById("root")).render(Qt.jsx(kv,{basename:"/yahabitWebsite",children:Qt.jsx(U.StrictMode,{children:Qt.jsx(c0,{})})}));
+      via email at zavedahmadca707@gmail.com.`})]})}function f0(){return Qt.jsx("p",{children:"hello my name is zaved707"})}function c0(){return Qt.jsxs(Mv,{children:[Qt.jsx(Oc,{path:"/privacy",element:Qt.jsx(i0,{})}),Qt.jsx(Oc,{path:"/about",element:Qt.jsx(f0,{})})]})}qy.createRoot(document.getElementById("root")).render(Qt.jsx(kv,{children:Qt.jsx(U.StrictMode,{children:Qt.jsx(c0,{})})}));
