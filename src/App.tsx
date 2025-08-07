@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import {  Routes, Route } from "react-router";
 import MainPage from './pages/mainPage/MainPage'
 import './App.css'
